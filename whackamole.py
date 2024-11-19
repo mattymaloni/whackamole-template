@@ -1,6 +1,6 @@
 import pygame
 
-
+#comment
 def main():
     try:
         pygame.init()
